@@ -19,6 +19,7 @@
         <module>jdbc</module>
         <module>spring-jdbc</module>
         <module>common</module>
+        <module>spring-data-jdbc</module>
     </modules>
 
     <properties>
