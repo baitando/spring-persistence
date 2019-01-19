@@ -18,6 +18,7 @@
     <modules>
         <module>jdbc</module>
         <module>spring-jdbc</module>
+        <module>common</module>
     </modules>
 
     <properties>

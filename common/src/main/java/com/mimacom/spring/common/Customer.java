@@ -1,4 +1,4 @@
-package com.mimacom.spring.persistence.springjdbc;
+package com.mimacom.spring.common;
 
 public class Customer {
 
