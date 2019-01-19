@@ -21,6 +21,7 @@
         <module>common</module>
         <module>spring-data-jdbc</module>
         <module>spring-data-mongodb</module>
+        <module>spring-data-jpa</module>
     </modules>
 
     <properties>
